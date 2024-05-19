@@ -11,29 +11,29 @@
 <div class="maincontainer">
   <div class="bat">
     <img class="wing leftwing" 
-         src="https://assets.webship.com.br/img/error-pages/bat-wing.png" />
+         src="bat-wing.png" />
     <img class="body"
-         src="https://assets.webship.com.br/img/error-pages/bat-body.png" />
+         src="bat-body.png" />
     <img class="wing rightwing"
-         src="https://assets.webship.com.br/img/error-pages/bat-wing.png" />
+         src="bat-wing.png" />
   </div>
   <div class="bat">
     <img class="wing leftwing" 
-         src="https://assets.webship.com.br/img/error-pages/bat-wing.png" />
+         src="bat-wing.png" />
     <img class="body"
-         src="https://assets.webship.com.br/img/error-pages/bat-body.png" />
+         src="bat-body.png" />
     <img class="wing rightwing"
-         src="https://assets.webship.com.br/img/error-pages/bat-wing.png" />
+         src="bat-wing.png" />
   </div>
   <div class="bat">
     <img class="wing leftwing" 
-         src="https://assets.webship.com.br/img/error-pages/bat-wing.png" />
+         src="bat-wing.png" />
     <img class="body"
-         src="https://assets.webship.com.br/img/error-pages/bat-body.png" />
+         src="bat-body.png" />
     <img class="wing rightwing"
-         src="https://assets.webship.com.br/img/error-pages/bat-wing.png" />
+         src="bat-wing.png" />
   </div>
-  <img class="foregroundimg" src="https://assets.webship.com.br/img/error-pages/haunted-house.png" />
+  <img class="foregroundimg" src="haunted-house.png" />
   
 </div>
 <h1 class="errorcode">ERRO 403</h1>
